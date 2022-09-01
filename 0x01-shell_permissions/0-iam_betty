@@ -1,2 +1,3 @@
 #!/bin/bash 
-sudo -u betty
+sun betty
+su betty
