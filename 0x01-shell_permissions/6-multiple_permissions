@@ -1,0 +1,7 @@
+#!/bin/bash
+chmod u+x 705
+chmod u+x 705 hello
+chmod u+x 705
+chmod u+x 774
+chmod 774
+chmod 754
