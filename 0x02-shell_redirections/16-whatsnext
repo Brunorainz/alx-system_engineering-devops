@@ -1,2 +1,5 @@
 #!/bin/bash
 grep -A 3 root /etc/passwd
+[master e3dc6b8] 16. What's next?
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x02-shell_redirections/16-whatsnext
